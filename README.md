@@ -8,8 +8,8 @@ Notes from my CyberOps Associate course (Cisco Networking Academy), written in m
 
 | Module | Topic | Status |
 |---|---|---|
-| 1 | [The Danger](01-The-Danger.md) | Finished |
-| 2 | [Fighters in the War Against Cybercrime](02-Fighters-Against-Cybercrime.md) | Finished |
+| 1 | [The Danger](<Modulo 1/README.md>) | Finished |
+| 2 | [Fighters in the War Against Cybercrime](<Modulo 1/README.md>) | Finished |
 | 3 | [Windows Operating System](03-Windows-Operating-System.md) | In-Progress |
 
 ## Labs
