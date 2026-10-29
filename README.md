@@ -1,5 +1,8 @@
 🌐 [English](README.md) | [Spanish](README.es.md)
 
+![Course](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?logo=cisco&logoColor=white)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 # Cisco CyberOps Associate · Notes
 
 Notes from my CyberOps Associate course (Cisco Networking Academy), written in my own words.
