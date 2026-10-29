@@ -15,7 +15,7 @@ Notes from my CyberOps Associate course (Cisco Networking Academy), written in m
 | 3 | [Windows Operating System](03-Windows-Operating-System.md) | In-Progress |
 
 ## Labs
-My hands-on practice lives in a separate repository: **[Cyberops Labs](link)**
+My hands-on practice lives in a separate repository: **[Cyberops Labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs)**
 
 ## ⚠️ Disclaimer
 Personal study notes. I don't reproduce the official course material, which belongs to Cisco.
