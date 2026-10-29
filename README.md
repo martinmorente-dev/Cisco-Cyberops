@@ -1,3 +1,5 @@
+🌐 [English](README.md) | [Español](README.es.md)
+
 # Cisco CyberOps Associate · Notes
 
 Notes from my CyberOps Associate course (Cisco Networking Academy), written in my own words.
