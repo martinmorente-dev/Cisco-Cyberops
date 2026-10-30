@@ -1,3 +1,5 @@
+🌐 [English](README.md) | [Spanish](README.es.md)
+
 # Historia de Windows
 
 ## Vulnerabilidades en el sistema operativo
