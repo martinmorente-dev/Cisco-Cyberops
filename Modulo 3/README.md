@@ -1,4 +1,4 @@
-
+🌐 [English](README.md) | [Spanish](README.es.md)
 
 # Windows History
 
