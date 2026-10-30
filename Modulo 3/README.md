@@ -6,18 +6,16 @@ A vulnerability is an imperfection or weakness that it could be used by an attac
 
 The next table show some common security recommendations of the windows SO.
 
-
-| Recomendación | Descripción |
+| Recommendation | Description |
 |---|---|
-| Protección contra virus o malware | • De manera predeterminada, Windows utiliza Windows Defender para la protección contra el malware<br>• Windows Defender ofrece un conjunto de herramientas de protección incorporado en el sistema.<br>• Si Windows Defender está desactivado, el sistema es más vulnerable a los ataques y al malware. |
-| Servicios desconocidos o no administrados | • Existen muchos servicios que se ejecutan en segundo plano.<br>• Es importante asegurarse de que cada servicio pueda identificarse y sea seguro.<br>• Con un servicio desconocido ejecutándose en segundo plano, la computadora puede ser vulnerable a los ataques. |
-| Cifrado | • Cuando los datos no se encuentran encriptados pueden ser fácilmente reunidos y explotados.<br>• Esto no es solamente importante para computadoras de escritorio, sino especialmente para dispositivos móviles. |
-| Política de seguridad | • Se debe configurar una buena política de seguridad y debe cumplirse.<br>• Muchos ajustes en el control de la política de seguridad de Windows pueden evitar ataques. |
-| Firewall | • Por defecto, Windows utiliza el Firewall de Windows para limitar la comunicación con dispositivos en la red<br>• Con el tiempo, es posible que las reglas ya no se apliquen.<br>• Por ejemplo, podría dejarse abierto un puerto que ya no debe estar disponible.<br>• Es importante revisar la configuración del firewall periódicamente para asegurarse de que las reglas sigan siendo aplicables y eliminar las que ya no se apliquen. |
-| Permisos de archivo y uso compartido | • Estos permisos deben ser aplicados correctamente.<br>• Es fácil solo darle al grupo “Todos” control total, pero esto permite a todas las personas realizar lo que ellas quieran con todos los archivos.<br>• Es mejor otorgar a cada usuario o grupo los permisos mínimos necesarios para todos los archivos y carpetas. |
-| Contraseña débil o sin contraseña | • Muchas personas eligen una contraseña débil o no utilizan contraseñas del todo.<br>• Es especialmente importante asegurarse de que todas las cuentas, especialmente la cuenta de administrador, tengan una contraseña muy fuerte. |
-| Iniciar sesión como administrador | • Cuando el usuario inicia sesión como administrador, cualquier programa que ejecuten tendrá los privilegios de esa cuenta.<br>• Es mejor iniciar sesión como un usuario estándar y utilizar solamente la contraseña de administrador para realizar determinadas tareas. |
-
+| Virus or malware protection | • By default, Windows uses Windows Defender for malware protection.<br>• Windows Defender provides a set of protection tools built into the system.<br>• If Windows Defender is disabled, the system is more vulnerable to attacks and malware. |
+| Unknown or unmanaged services | • Many services run in the background.<br>• It is important to make sure that every service can be identified and is safe.<br>• With an unknown service running in the background, the computer may be vulnerable to attacks. |
+| Encryption | • When data is not encrypted, it can easily be collected and exploited.<br>• This is important not only for desktop computers, but especially for mobile devices. |
+| Security policy | • A good security policy must be configured and enforced.<br>• Many settings in the Windows security policy controls can prevent attacks. |
+| Firewall | • By default, Windows uses Windows Firewall to limit communication with devices on the network.<br>• Over time, rules may no longer apply.<br>• For example, a port that should no longer be available could be left open.<br>• It is important to review the firewall configuration periodically to make sure the rules are still applicable, and to remove those that no longer apply. |
+| File permissions and sharing | • These permissions must be applied correctly.<br>• It is easy to simply give the "Everyone" group full control, but this allows anyone to do whatever they want with all files.<br>• It is better to grant each user or group the minimum permissions necessary for all files and folders. |
+| Weak or no password | • Many people choose a weak password or do not use passwords at all.<br>• It is especially important to make sure that all accounts, especially the administrator account, have a very strong password. |
+| Logging in as administrator | • When a user logs in as an administrator, any program they run will have the privileges of that account.<br>• It is better to log in as a standard user and use the administrator password only to perform certain tasks. |
 
 ## Abstraction layers of the hardware
 
@@ -35,8 +33,6 @@ It handles all input and output requests, the memory and all the peripherals con
 
 There are 2 different modes in which a CPU corks when the computers haves Windows installed: user mode and kernel mode.
 
-<!-- Image-->
-
 The installed applications runs in user mode, and the code of the SO runs in kernel mode. The code that runs in kernel mode haves unlimited access to the underlying hardware and is capable of execute any CPU instructions.
 
 The codes in kernel mode also can do reference to any memory direction directly. An error in the code that runs in kernel mode stops all the system.
@@ -45,8 +41,6 @@ But the rest of the programs run in user mode and doesn't have direct access to 
 
 ## Windows file system
 A file system determines how information is organized on storage media. Some files systems may be a better choice than others, depending on the type of media used.
-
-<!-- image -->
 
 ### NTFS File system
 
