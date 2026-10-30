@@ -15,7 +15,7 @@ Notes from my CyberOps Associate course (Cisco Networking Academy), written in m
 |---|---|---|
 | 1 | [The Danger](<Modulo 1/README.md>) | Finished |
 | 2 | [Fighters in the War Against Cybercrime](<Modulo 2/README.md>) | Finished |
-| 3 | [Windows Operating System](03-Windows-Operating-System.md) | In-Progress |
+| 3 | [Windows Operating System](<Modulo 2/README.md>) | In-Progress |
 
 ## Labs
 My hands-on practice lives in a separate repository: **[Cyberops Labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs)**
