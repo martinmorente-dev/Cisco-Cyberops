@@ -7,7 +7,7 @@
 
 Notes from my CyberOps Associate course (Cisco Networking Academy), written in my own words.
 
-**Status:** In progress (expected: 31/06/2027 month/year) · Progress: Module [3] of [28]
+**Status:** In progress (expected: 31/06/2027 ) · Progress: Module [3] of [28]
 
 ## Modules
 
