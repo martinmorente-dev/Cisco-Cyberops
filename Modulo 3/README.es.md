@@ -1,4 +1,5 @@
-🌐 [English](README.md) | [Spanish](README.es.md) | [Go back](https://github.com/martinmorente-dev/Cisco-Cyberops/tree/main)
+🌐 [Inglés](README.md) | [Español](README.es.md) | [Volver](https://github.com/martinmorente-dev/Cisco-Cyberops)
+
 
 # Historia de Windows
 
