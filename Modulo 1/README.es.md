@@ -1,4 +1,4 @@
-🌐 [English](README.md) | [Spanish](README.es.md) | [Go back](https://github.com/martinmorente-dev/Cisco-Cyberops)
+🌐 [Inglés](README.md) | [Español](README.es.md) | [Volver](https://github.com/martinmorente-dev/Cyberops)
 
 # Módulo 1 · El peligro
 
