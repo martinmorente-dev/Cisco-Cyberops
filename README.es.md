@@ -1,4 +1,4 @@
-🌐 [English](README.md) | [Spanish](README.es.md) | [Go back](https://github.com/martinmorente-dev/Cybersecurity)
+🌐 [Inglés](README.md) | [Español](README.es.md) | [Volver](https://github.com/martinmorente-dev/Cybersecurity)
 
 
 # Cisco CyberOps Associate · Notas
